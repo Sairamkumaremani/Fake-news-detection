@@ -9,4 +9,4 @@ Our team members are:
 * [Poli Sai Aditya Reddy](https://github.com/Aditya-Poli)
 * [Gobbilla Hemachand](https://github.com/Hemchand-23)
 * [ENS Sai Ram Kumar](https://github.com/Sairamkumaremani)
-* [Jangam Abhinav]
+* [Jangam Abhinav](https://github.com/abhinavj05-abhi)
