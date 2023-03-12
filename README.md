@@ -10,3 +10,11 @@ Our team members are:
 * [Gobbilla Hemachand](https://github.com/Hemchand-23)
 * [ENS Sai Ram Kumar](https://github.com/Sairamkumaremani)
 * [Jangam Abhinav](https://github.com/abhinavj05-abhi)
+
+
+### Algorithms used in the project
+
+- Logistic Regression
+- SVM(Support vector Machine)
+- Decision Tree
+- Random Forest
