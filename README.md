@@ -11,10 +11,11 @@ Our team members are:
 * [ENS Sai Ram Kumar](https://github.com/Sairamkumaremani)
 * [Jangam Abhinav](https://github.com/abhinavj05-abhi)
 
-
+---
 ### Algorithms used in the project
 #### ML
-
+1. ML.ipynb contains all ML algorithms without stemming and stop words.
+2. ML_processed.ipynb contains all ML algorithms with stemming and stop words applied.
 - Logistic Regression
 - Decision Tree
 - KNN
