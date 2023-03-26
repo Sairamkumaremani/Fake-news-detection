@@ -13,8 +13,10 @@ Our team members are:
 
 
 ### Algorithms used in the project
+#### ML
 
 - Logistic Regression
 - Decision Tree
 - KNN
 - Naïve Bayes
+- SVM
