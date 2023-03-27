@@ -21,3 +21,8 @@ Our team members are:
 - KNN
 - Naïve Bayes
 - SVM
+
+#### DL
+- RNN
+- LSTM
+- Bi-directional LSTM
